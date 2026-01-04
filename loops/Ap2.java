@@ -1,11 +1,12 @@
+
 import java.util.Scanner;
-public class ap1 {
+public class Ap2 {
 public static void main(String[] args) {
-    // problem : display this airthmatic progession - 1 , 3 , 5 , 7 , 9 ..... upto 'n' number of term 
+    // problem : display this airthmatic progession - 4 , 7 , 10 , 13 , 16 ..... upto 'n' number of term 
     Scanner sc = new Scanner(System.in);
     System.out.println("enter n :");
     int n = sc.nextInt();
-    for(int i=1; i<= n*2-1 ; i +=2){
+    for(int i=4; i<= n*3+1 ; i +=3){
         System.out.println(i);
     }
     sc.close();

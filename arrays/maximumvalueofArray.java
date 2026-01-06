@@ -1,3 +1,4 @@
+//problem : find the maximum value out of all the elements in the array?
 public class maximumvalueofArray {
     public static void main(String[] args) {
         int[] arr = {4, 5 ,1 ,2 ,4 ,8 ,6 ,2 };

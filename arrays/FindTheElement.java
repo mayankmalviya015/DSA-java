@@ -11,7 +11,7 @@ public class FindTheElement {
         int[] arr = new int[n];
         System.out.println("enter a array elements");
         for (int i = 0; i < n; i++) {
-            arr[i] = sc.nextInt();   
+            arr[i] = sc.nextInt();
         }
         for (int i = 0; i < n; i++) {
              if(arr[i]==x){

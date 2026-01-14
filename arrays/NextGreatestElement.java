@@ -10,9 +10,9 @@ public class NextGreatestElement {
             int mx = Integer.MIN_VALUE;
             for (int j = i+1; j < n; j++) {
                 mx = Math.max(mx , arr[j]);
-            }
+            } 
             brr[i] = mx;
         }
         for(int ele : brr)System.out.print(ele+ " ");
     }
-}
+}  

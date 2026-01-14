@@ -14,3 +14,4 @@ public class nextgreatestmethod2 {
         for(int ele : ans)System.out.print(ele+ " ");
     }
 }
+ 

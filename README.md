@@ -23,6 +23,7 @@ I will update this section as I complete each topic:
 - Basics
 - Loops
 - Arrays
+- Strings
 - ____________________
 - ____________________
 

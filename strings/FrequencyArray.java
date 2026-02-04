@@ -1,7 +1,6 @@
-
 import java.util.Scanner;
-
 public class FrequencyArray{
+    //Given a String consisting of lowercase english alphabets. print the character that is occurring most number of times.
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String s = sc.next();

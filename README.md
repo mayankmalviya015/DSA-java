@@ -26,7 +26,7 @@ I will update this section as I complete each topic:
 - Loops
 - Arrays
 - Strings
-- time & space complexity
+- time & space complexity.
 - ____________________
 - ____________________
 

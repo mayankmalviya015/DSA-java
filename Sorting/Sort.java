@@ -9,7 +9,7 @@ public class Sort {
                 x= false;
         }
         if(x==true)
-            System.out.println("sorted");
+            System.out.println(" sorted");
         else System.err.println("unsort");
 
     }

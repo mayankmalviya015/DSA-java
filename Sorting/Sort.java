@@ -1,5 +1,3 @@
-package Sorting;
-
 public class Sort {
     public static void main(String[] args) {
         boolean x =true;

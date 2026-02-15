@@ -14,7 +14,6 @@ public class BubbleSort {
                     int term = arr[i];
                     arr[i] =arr[i+1];
                     arr[i+1] =term;
-                    j--;
                 }
             }
             
